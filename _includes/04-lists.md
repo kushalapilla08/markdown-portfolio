@@ -1,4 +1,4 @@
--Life
--Education
--Love
--Humanity
+* Life
+* Education
+* Love
+* Humanity
